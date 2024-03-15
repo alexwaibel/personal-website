@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: alexwaibel
 minimal_mistakes_skin: default
 search: true
-url: "http://alexwaibel.github.io/personal-website"
+url: "https://waibel.us/personal-website/"
 repository: "alexwaibel/personal-website"
 
 # Build settings
@@ -66,13 +66,13 @@ author:
       url: "https://waibel.us"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/alexwaibel"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/alexwaibel"
 
 defaults:
   # _posts
