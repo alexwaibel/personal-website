@@ -21,7 +21,7 @@ github_username: alexwaibel
 minimal_mistakes_skin: default
 search: true
 url: "https://waibel.us"
-repository: "alexwaibel/personal-website"
+repository: "alexwaibel/alexwaibel.github.io"
 
 # Build settings
 markdown: kramdown
