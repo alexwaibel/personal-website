@@ -8,7 +8,7 @@ tags:
   - Meta
 ---
 
-This blog now includes a comment system! There are a few projects out there that work to add commenting to static pages hosted on GitHub pages. Below are a few such projects and my thoughts on them:
+This blog now includes a comment system! There are a few projects out there that work to add commenting to static sites hosted on GitHub pages. Below are a few such projects and my thoughts on them:
 
 - [Disqus](https://disqus.com/)
   - This is a very popular commenting framework and can work well but is proprietary and requires an account.
@@ -22,7 +22,7 @@ This blog now includes a comment system! There are a few projects out there that
   - Uses github issues to host comments. Requires a GitHub account to comment.
 - [giscus](https://giscus.app/)
   - Very similar to Utterances but uses GitHub Discussions instead of issues. Also requires a GitHub account to comment.
-- [Staticman]
+- [Staticman](staticman.net)
   - This project requires self-hosting and uses GitHub issues behind the scenes for storing content.
   - This is a project I have a soft spot for as I used to be a maintainer of the project, but it hasn't seen active development for some time now.
 
