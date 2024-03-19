@@ -32,6 +32,16 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Los_Angeles
 
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDOLg_CBA"
+    category_name: "Blog Post Comments"
+    category_id: "DIC_kwDOLg_CBM4CeEMk"
+    discussion_term: "pathname"
+    reactions_enabled: "1"
+    theme: "preferred_color_scheme"
+
 include:
   - _pages
 
