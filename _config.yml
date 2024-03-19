@@ -70,7 +70,7 @@ plugins:
 
 author:
   name   : "Alex Waibel"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/alex-profile.png"
   bio    : "A software engineer with a life-long passion for technology."
   links:
     - label: "Website"
