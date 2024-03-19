@@ -13,7 +13,15 @@
 
 	// Uncomment the next line to run commands after the container is created.
 	// "postCreateCommand": "jekyll --version"
-	"postCreateCommand": "nohup bash -c 'bundle exec jekyll serve --force_polling &'"
+	"postCreateCommand": "nohup bash -c 'bundle exec jekyll serve --force_polling &'",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"DavidAnson.vscode-markdownlint",
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	}
 
 	// Configure tool-specific properties.
 	// "customizations": {},
